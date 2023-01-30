@@ -1,4 +1,5 @@
-// A facade is a class that provides a simplified API for larger body of code. It is often to used to hide low-level details of a subsystem.
+// A facade is a class that provides a simplified API for larger body of code.
+// It is often to used to hide low-level details of a subsystem.
 
 class PlumbingSystem {
   // low evel access to plubming system
