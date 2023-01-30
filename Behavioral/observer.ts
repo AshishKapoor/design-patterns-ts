@@ -1,4 +1,5 @@
-// The observer pattern is used to notify a set of interested parties when a state change occurs. The rxjs library is a popular implementation of this pattern.
+// The observer pattern is used to notify a set of interested parties when a state change occurs.
+// The rxjs library is a popular implementation of this pattern.
 
 import { Subject } from 'rxjs';
 
