@@ -1,4 +1,5 @@
-// A factory is a method or function that creates an object, or a set of objects, without exposing the creation logic to the client.
+// A factory is a method or function that creates an object, or a set of objects,
+// without exposing the creation logic to the client.
 
 class IOSButton { }
 
