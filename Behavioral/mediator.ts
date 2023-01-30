@@ -1,4 +1,6 @@
-// The mediator is provids a middle layer between objects that communicate with each other. This pattern implemented frequently in JavaScript libaries via plugin systems (like Webpack) and middleware (like Express).
+// The mediator is provids a middle layer between objects that communicate with each other.
+// This pattern implemented frequently in JavaScript libaries via plugin systems (like Webpack)
+// and middleware (like Express).
 
 import express from 'express';
 const app = express();
